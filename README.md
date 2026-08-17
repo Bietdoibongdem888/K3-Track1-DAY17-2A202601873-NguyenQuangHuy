@@ -133,7 +133,7 @@
 *(Chi tiết các đoạn hội thoại đầy đủ được lưu tại file [`interview.md`](file:///Users/langthiphuonghue/K3-Track1-DAY17-2A202601873-NguyenQuangHuy/interview.md))*
 
 ### Bản ghi Interview Record số 1
-*   **Mã người tham gia:** Đinh Lê Quỳnh Phương
+*   **Mã người tham gia:** Đinh Lê Quỳnh Phương - 2A202601865
 *   **Đúng tiêu chí tuyển:** Có
 
 | Điều cần giữ lại | Ghi chép thực tế (Facts thu thập được) |
@@ -147,7 +147,7 @@
 ---
 
 ### Bản ghi Interview Record số 2
-*   **Mã người tham gia:** Cao Các Tường
+*   **Mã người tham gia:** Cao Các Tường - 2A202601236
 *   **Đúng tiêu chí tuyển:** Có
 
 | Điều cần giữ lại | Ghi chép thực tế (Facts thu thập được) |

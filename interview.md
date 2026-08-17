@@ -17,8 +17,8 @@ Tài liệu này ghi lại chi tiết hội thoại của 2 cuộc phỏng vấn
 *   **Huy:** Học lúc đó là tầm mấy giờ, bạn học trong bao lâu và bằng thiết bị gì?
 *   **A:** Tầm 9 giờ tối, mình học khoảng 45 phút trên máy tính laptop cá nhân.
 *   **Huy:** Trong suốt 45 phút học đó, bạn có lưu lại thông tin hay ghi chép gì không? Và bạn làm việc đó cụ thể như thế nào?
-*   **A:** Có chứ. Với mấy cái định nghĩa ngắn hoặc công thức toán phức tạp thì mình lười gõ lại lắm, nên mình toàn mở điện thoại ra chụp ảnh màn hình laptop luôn. Hôm đó học xong mình đếm lại thì chụp khoảng 8 tấm ảnh slide.
-*   **Huy:** Sau buổi học tối thứ Năm đó, 8 bức ảnh chụp đó được lưu ở đâu? Bạn có sắp xếp hay làm gì với chúng không?
+*   **A:** Mình lười gõ lại công thức toán lắm, nên lấy điện thoại chụp cho nhanh. Nhưng mà chụp xong để trong album ảnh chung với ảnh đi chơi, giờ muốn tìm lại để làm bài tập thì phải lướt tìm mỏi mắt.
+*   **Huy:** Sau buổi học tối thứ Năm đó, bức ảnh chụp đó được lưu ở đâu? Bạn có sắp xếp hay làm gì với chúng không?
 *   **A:** Thì nó cứ nằm trong album ảnh của máy điện thoại thôi. Mình cũng chả lập folder hay sắp xếp gì cả, nó cứ nằm lẫn lộn với mấy ảnh chụp đi chơi, ảnh ăn uống cuối tuần của mình thôi.
 *   **Huy:** Lần gần nhất bạn mở lại những bức ảnh slide đó để xem lại là khi nào?
 *   **A:** Tối chủ nhật vừa rồi, lúc mình phải làm bài tập lớn. Mình cần xem lại cái công thức toán trong slide đã chụp để áp dụng vào bài.
